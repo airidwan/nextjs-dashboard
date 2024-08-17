@@ -7,3 +7,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 Learning ref:
 
 https://nextjs.org/learn/dashboard-app
+
+![1723929978750](image/README/1723929978750.png)
